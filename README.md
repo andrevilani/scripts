@@ -1,1 +1,1 @@
-Scripts de testes para aprender git
+Scripts de testes
